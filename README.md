@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on any project with golang or nodejs
-- 📫 How to reach me: https://www.udemy.com/home/my-courses/lists/
+- 📫 How to reach me: https://www.linkedin.com/in/tntdat/
 
 <!---
 BruenoA/BruenoA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
